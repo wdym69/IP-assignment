@@ -73,3 +73,7 @@ footer {
   background-color: #333;
   color: white;
 }
+
+footer::first-letter {
+  color: brown;
+}
